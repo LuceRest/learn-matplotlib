@@ -1,0 +1,4 @@
+- plt.plot() → Berfungsi untuk menginisialisasi plot.
+- plt.plot(x,y)
+
+- plt.show() → Berfungsi untuk menampilkan plot.
