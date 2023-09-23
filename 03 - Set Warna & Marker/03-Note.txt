@@ -1,0 +1,8 @@
+- np.deg2rad(<sudut>) → Berfungsi untuk mengubah sudut derajat menjadi sudut radius.
+
+- plt.plot(<x>,<y>, <kode warna>)
+- plt.plot(x, y, ‘r’)
+
+- plt.plot(<x>,<y>, ‘<kode warna>-<jenis marker garis plot>’)
+- plt.plot(x, y, ‘r--’)
+- plt.plot(x, y, ‘r-o’)

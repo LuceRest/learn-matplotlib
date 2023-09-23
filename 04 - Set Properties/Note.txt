@@ -1,0 +1,3 @@
+- plt.setp() → Berfungsi untuk mensetting properties.
+- plt.setp(<plot>, <properti>=<nilai>)
+- plt.setp(dataPlot1, color=’r’, linestyle=’-.’, linewidth=0.75)

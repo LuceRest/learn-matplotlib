@@ -1,0 +1,3 @@
+- plt.axis() → Berfungsi untuk mensetting axis pada plot, seperti nilai minimum dan maksimum dari axis.
+- plt.axis([<xmin>, <xmax>, <ymin>, <ymax>])
+- plt.axis([0, 4, -1, 1])

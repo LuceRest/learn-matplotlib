@@ -1,0 +1,6 @@
+- Alur plotting dengan matplotlib :
+    1. Membuat data
+    2. Membuat plot
+    3. Menampilkan plot
+
+- Apabila ada 2 plt.plot() maka akan plotnya akan digabung.
